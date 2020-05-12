@@ -8,14 +8,14 @@ assignees: ''
 
 ---
 
-##Who is the user? 
+**Who is the user?** 
 
-##What will this help them do? 
+**What will this help them do?**
 
-##When is it needed? 
+**When is it needed?**
 
-##What steps are needed to make it a reality? 
+**What steps are needed to make it a reality?**
 - [ ] 
 - [ ] 
-- [ ]
-- [ ]
+- [ ] 
+- [ ] 
