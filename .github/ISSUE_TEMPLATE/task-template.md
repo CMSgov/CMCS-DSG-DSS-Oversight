@@ -7,12 +7,8 @@ labels: ''
 assignees: ''
 
 ---
-
-**Who is the user?** 
-
-**What will this help them do?**
-
-**When is it needed?**
+**Brief description of the task** 
+[text here]
 
 **What steps are needed to make it a reality?**
 - [ ] 
