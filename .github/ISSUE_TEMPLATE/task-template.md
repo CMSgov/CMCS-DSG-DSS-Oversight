@@ -8,7 +8,8 @@ assignees: ''
 
 ---
 **Brief description of the task** 
-[text here]
+[What is the task?]
+[Who is the user or audience?]
 
 **What steps are needed to make it a reality?**
 - [ ] 
