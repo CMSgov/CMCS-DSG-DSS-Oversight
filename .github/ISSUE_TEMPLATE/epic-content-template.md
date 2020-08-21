@@ -1,6 +1,6 @@
 ---
 name: Epic content item template
-about: Infomation about the content item task needed to track progress in content calendar
+about: Infomation about the content item/deliverable to track its Epic's progress in the content calendar
 title: ''
 labels: 'Comms/Engagement'
 assignees: ''
