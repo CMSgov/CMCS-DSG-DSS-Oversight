@@ -2,7 +2,7 @@
 name: Epic content item template
 about: Infomation about the content item task needed to track progress in content calendar
 title: ''
-labels: 'Comms/Engagement','Epic'
+labels: 'Comms/Engagement'
 assignees: ''
 
 ---
