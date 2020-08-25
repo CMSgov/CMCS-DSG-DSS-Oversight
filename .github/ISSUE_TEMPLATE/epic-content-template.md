@@ -8,8 +8,15 @@ assignees: ''
 ---
 
 
-**Describe this item:***
+**Describe this item:**
+[Put description here!]
+
 **Who’s the user or audience & what’s the benefit to them?**
-**What [communication channel]((https://github.com/CMSgov/CMCS-DSG-DSS-Oversight/wiki/Governance-Plan#channels--vehicles-for-communication)) will be used to distribute this? (if relevant)**
+[Enter here!]
+
+**What [communication channel](https://github.com/CMSgov/CMCS-DSG-DSS-Oversight/wiki/Governance-Plan#channels--vehicles-for-communication) will be used to distribute this? (if relevant)**
+[Communication channel here!]
+
 **What is the target date for release? (if known)**
+[Target date here!]
 
