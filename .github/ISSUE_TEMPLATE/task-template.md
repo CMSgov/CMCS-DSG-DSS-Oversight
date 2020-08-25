@@ -18,3 +18,8 @@ assignees: ''
 - [ ] 
 - [ ] 
 - [ ] 
+
+**Please tag with the following labels (if relevant)**
+
+- Assignee
+- Contractor lead
