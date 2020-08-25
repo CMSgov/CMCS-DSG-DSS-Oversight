@@ -1,7 +1,6 @@
 ---
 name: Task template
-about: Basic information needed to track what is needed and how it connects to the
-  big picture
+about: Individual tasks described with an action verb. Issues usually span 1 - 2 weeks.
 title: ''
 labels: ''
 assignees: ''
