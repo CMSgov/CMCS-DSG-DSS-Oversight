@@ -20,3 +20,8 @@ assignees: ''
 **What is the target date for release? (if known)**
 [Target date here!]
 
+**Please tag with the following labels (if relevant)**
+- Audience
+- Contractor lead
+- State pilot
+- Support materials
