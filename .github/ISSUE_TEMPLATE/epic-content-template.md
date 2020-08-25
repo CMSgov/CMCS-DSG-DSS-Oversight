@@ -1,6 +1,6 @@
 ---
 name: Epic content item template
-about: Infomation about the content item/deliverable to track its Epic's progress in the content calendar
+about: Individual pieces of content that support the “project”. Use a noun or deliverable item name for Epic title.
 title: ''
 labels: 'Comms/Engagement'
 assignees: ''
