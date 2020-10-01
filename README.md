@@ -3,4 +3,4 @@ A repository for DSS' work supporting the Center for Medicaid and CHIP Services 
 
 For more information about who we are and what we are doing, [head to the wiki](https://github.com/CMSgov/CMCS-DSG-DSS-Oversight/wiki).
 
-To track this project, we manage this work through [our ZenHub board](https://app.zenhub.com/workspaces/cmcs-dsg-dss-oversight-5f1915977f0e450022da42dc/board?repos=269427572&showEstimates=false&showMilestones=false&showEpics=false&showReleases=false&showDependencies=false).
+To track this project, we manage this work through [our ZenHub board](https://app.zenhub.com/workspaces/cmcs-dsg-dss-oversight-5f1915977f0e450022da42dc/board?epics:settings=noEpics&filterLogic=any&repos=269427572&showEstimates=false&showMilestones=false&showEpics=false&showReleases=false&showDependencies=false).
